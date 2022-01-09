@@ -18,3 +18,10 @@ let currencyRatio= {
         unit:"Won"
     },
 }
+//console.log(currencyRatio.CAD.unit);
+
+//console.log(currencyRatio["CAD"]["unit"])
+document.querySelectorAll("#from-currency-list a")
+.forEach((menu) => menu.addEventListener("click",function(){
+    document.getElementById("")
+}));
